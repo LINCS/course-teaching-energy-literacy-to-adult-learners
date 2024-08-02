@@ -1,0 +1,2298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="755">
+    <name>top</name>
+    <contextid>73429</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>301</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+240628174048+P0nX6b</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="756">
+    <name>Default for EnergyLiteracy_23</name>
+    <contextid>73429</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>301</contextinstanceid>
+    <info>The default category for questions shared in context 'EnergyLiteracy_23'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+230715015856+CG7ron</stamp>
+    <parent>755</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+      <question_bank_entry id="1574">
+        <questioncategoryid>756</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1574">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3020">
+                <parent>0</parent>
+                <name>Q1</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;True
+or false?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Some energy is “lost” as it transfers from one system to another.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809211019+HgS7Ue</stamp>
+                <timecreated>1691615419</timecreated>
+                <timemodified>1691717921</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9541">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9542">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="330">
+                    <trueanswer>9541</trueanswer>
+                    <falseanswer>9542</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+          <question_versions id="1575">
+            <version>2</version>
+            <status>ready</status>
+            <questions>
+              <question id="3021">
+                <parent>0</parent>
+                <name>Q1</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;True or false?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Some energy is “lost” as it transfers from one system to another.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+240528134914+sVA8WI</stamp>
+                <timecreated>1716904154</timecreated>
+                <timemodified>1716904154</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9543">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9544">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="331">
+                    <trueanswer>9543</trueanswer>
+                    <falseanswer>9544</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+          <question_versions id="1576">
+            <version>3</version>
+            <status>ready</status>
+            <questions>
+              <question id="3022">
+                <parent>0</parent>
+                <name>Q1</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;True or false?&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Some energy is “lost” as it transfers from one system to another.&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+240607233400+jIlnaZ</stamp>
+                <timecreated>1717803240</timecreated>
+                <timemodified>1717803240</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9545">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is correct.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9546">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="332">
+                    <trueanswer>9545</trueanswer>
+                    <falseanswer>9546</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1575">
+        <questioncategoryid>756</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1577">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3023">
+                <parent>0</parent>
+                <name>Q2</name>
+                <questiontext>&lt;span&gt;True
+or false?&lt;/span&gt;&lt;p&gt;Potential energy is energy related to motion or movement.&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809211122+ZoD0lG</stamp>
+                <timecreated>1691615482</timecreated>
+                <timemodified>1691717945</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9547">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9548">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="333">
+                    <trueanswer>9547</trueanswer>
+                    <falseanswer>9548</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+          <question_versions id="1578">
+            <version>2</version>
+            <status>ready</status>
+            <questions>
+              <question id="3024">
+                <parent>0</parent>
+                <name>Q2</name>
+                <questiontext>&lt;span&gt;True
+or false?&lt;/span&gt;&lt;p&gt;Potential energy is energy related to motion or movement.&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+240607233420+o8TFsR</stamp>
+                <timecreated>1717803260</timecreated>
+                <timemodified>1717803260</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9549">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9550">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is correct.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="334">
+                    <trueanswer>9549</trueanswer>
+                    <falseanswer>9550</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1576">
+        <questioncategoryid>756</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1579">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3025">
+                <parent>0</parent>
+                <name>Q3</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Unit 2 offers specific strategies for introducing and considering advantages and
+disadvantages of which form of power?&lt;/span&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.0000000</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809211510+ycYLIk</stamp>
+                <timecreated>1691615710</timecreated>
+                <timemodified>1695318078</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9551">
+                      <answertext>&lt;p&gt;Combustion energy&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9552">
+                      <answertext>&lt;p&gt;Hydroelectric power&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9553">
+                      <answertext>Nuclear energy</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9554">
+                      <answertext>&lt;p&gt;Solar power&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1760">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect. You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1577">
+        <questioncategoryid>756</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1580">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3026">
+                <parent>0</parent>
+                <name>Q4</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Which
+is NOT a strategy suggested in Unit 2 for building knowledge from informational text?&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809211701+krvDJq</stamp>
+                <timecreated>1691615821</timecreated>
+                <timemodified>1693026243</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9555">
+                      <answertext>&lt;p&gt;Using wh- questions to identify key details about a text&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9556">
+                      <answertext>&lt;p&gt;Building physical models based on a text&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9557">
+                      <answertext>&lt;p&gt;Citing examples from a text&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9558">
+                      <answertext>&lt;p&gt;Making inferences about a text&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1761">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.&amp;nbsp;You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1578">
+        <questioncategoryid>756</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1581">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3027">
+                <parent>0</parent>
+                <name>Q1</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;True
+or false?&lt;/p&gt;&lt;p&gt;Energy flows through physical processes and biological systems in the Earth
+system.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809214449+Fdgid0</stamp>
+                <timecreated>1691617489</timecreated>
+                <timemodified>1691717201</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9559">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9560">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="335">
+                    <trueanswer>9559</trueanswer>
+                    <falseanswer>9560</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+          <question_versions id="1582">
+            <version>2</version>
+            <status>ready</status>
+            <questions>
+              <question id="3028">
+                <parent>0</parent>
+                <name>Q1</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;True
+or false?&lt;/p&gt;&lt;p&gt;Energy flows through physical processes and biological systems in the Earth
+system.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+240607233556+hCqtdH</stamp>
+                <timecreated>1717803356</timecreated>
+                <timemodified>1717803356</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9561">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is correct.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9562">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="336">
+                    <trueanswer>9561</trueanswer>
+                    <falseanswer>9562</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1579">
+        <questioncategoryid>756</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1583">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3029">
+                <parent>0</parent>
+                <name>Q2</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;True
+or false?&lt;/p&gt;&lt;p&gt;Water can be used to generate energy, but not to store energy.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809214525+fPWKzm</stamp>
+                <timecreated>1691617525</timecreated>
+                <timemodified>1691717224</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9563">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9564">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="337">
+                    <trueanswer>9563</trueanswer>
+                    <falseanswer>9564</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+          <question_versions id="1584">
+            <version>2</version>
+            <status>ready</status>
+            <questions>
+              <question id="3030">
+                <parent>0</parent>
+                <name>Q2</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;True
+or false?&lt;/p&gt;&lt;p&gt;Water can be used to generate energy, but not to store energy.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+240607233617+AHkhaL</stamp>
+                <timecreated>1717803377</timecreated>
+                <timemodified>1717803377</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9565">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9566">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is correct.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="338">
+                    <trueanswer>9565</trueanswer>
+                    <falseanswer>9566</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1580">
+        <questioncategoryid>756</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1585">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3031">
+                <parent>0</parent>
+                <name>Q3</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Which
+is the primary source of energy for Earth’s biological systems?&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809214648+34uD8b</stamp>
+                <timecreated>1691617608</timecreated>
+                <timemodified>1700629036</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9567">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Sun&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9568">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Wind&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9569">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Water&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1762">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.&amp;nbsp;You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1581">
+        <questioncategoryid>756</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1586">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3032">
+                <parent>0</parent>
+                <name>Q4</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;True
+or false?&lt;/p&gt;&lt;p&gt;Eating higher on a food chain is more efficient than eating lower on the chain,
+because energy becomes more concentrated in larger organisms higher on the
+chain.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809214731+HT9oUN</stamp>
+                <timecreated>1691617651</timecreated>
+                <timemodified>1691717239</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9570">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9571">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="339">
+                    <trueanswer>9570</trueanswer>
+                    <falseanswer>9571</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+          <question_versions id="1587">
+            <version>2</version>
+            <status>ready</status>
+            <questions>
+              <question id="3033">
+                <parent>0</parent>
+                <name>Q4</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;True
+or false?&lt;/p&gt;&lt;p&gt;Eating higher on a food chain is more efficient than eating lower on the chain,
+because energy becomes more concentrated in larger organisms higher on the
+chain.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+240607233648+NtUrM6</stamp>
+                <timecreated>1717803408</timecreated>
+                <timemodified>1717803408</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9572">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9573">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is correct.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="340">
+                    <trueanswer>9572</trueanswer>
+                    <falseanswer>9573</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1582">
+        <questioncategoryid>756</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1588">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3034">
+                <parent>0</parent>
+                <name>Q5</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Which
+topic is NOT suggested in Unit 3 as a way to engage learners through the theme of
+water?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809214917+76xREd</stamp>
+                <timecreated>1691617757</timecreated>
+                <timemodified>1700629137</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9574">
+                      <answertext>&lt;p dir="ltr"&gt;Access to water&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9575">
+                      <answertext>&lt;p dir="ltr"&gt;Use of water to generate power&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9576">
+                      <answertext>&lt;p dir="ltr"&gt;Cleanliness of water supply&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9577">
+                      <answertext>&lt;p dir="ltr"&gt;Use of water in agriculture&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1763">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.&amp;nbsp;You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1583">
+        <questioncategoryid>756</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1589">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3035">
+                <parent>0</parent>
+                <name>Q6</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Which
+is NOT a strategy suggested in Unit 3 for exploring the flow of energy?&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809215104+ZFTHQO</stamp>
+                <timecreated>1691617864</timecreated>
+                <timemodified>1700629221</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9578">
+                      <answertext>&lt;p dir="ltr"&gt;Concept map&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9579">
+                      <answertext>&lt;p dir="ltr"&gt;Physical reenactment; acting out a process&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9580">
+                      <answertext>&lt;p dir="ltr"&gt;Reading graphs&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9581">
+                      <answertext>&lt;p dir="ltr"&gt;Observation journal&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1764">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.&amp;nbsp;You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1584">
+        <questioncategoryid>756</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1590">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3036">
+                <parent>0</parent>
+                <name>Q1</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Electricity
+is...&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809220038+LcMVt5</stamp>
+                <timecreated>1691618438</timecreated>
+                <timemodified>1691620206</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9582">
+                      <answertext>&lt;p dir="ltr"&gt;a carrier of energy.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9583">
+                      <answertext>&lt;p dir="ltr"&gt;a source of energy.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1765">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>1</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.&amp;nbsp;You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="757">
+    <name>Default for Unit 1 Learning Check</name>
+    <contextid>73438</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10165</contextinstanceid>
+    <info>The default category for questions shared in context 'Unit 1 Learning Check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+230809210746+aC1W0p</stamp>
+    <parent>761</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="758">
+    <name>Default for Unit 2 Learning Check</name>
+    <contextid>73441</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10168</contextinstanceid>
+    <info>The default category for questions shared in context 'Unit 2 Learning Check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+230809214337+LNO40o</stamp>
+    <parent>762</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="759">
+    <name>Default for Unit 3 Learning Check</name>
+    <contextid>73444</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10171</contextinstanceid>
+    <info>The default category for questions shared in context 'Unit 3 Learning Check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+230809215855+vuhpDL</stamp>
+    <parent>763</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+      <question_bank_entry id="1585">
+        <questioncategoryid>759</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1591">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3037">
+                <parent>0</parent>
+                <name>Q2</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Which verb is NOT used to describe human interaction with energy under the concepts that support Principle 4?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809220235+JSDRdF</stamp>
+                <timecreated>1691618555</timecreated>
+                <timemodified>1700629575</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9584">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Capture&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9585">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Store&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9586">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Transfer&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9587">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Transform&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9588">
+                      <answertext>&lt;p dir="ltr" style="text-align: left;"&gt;Transport&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1766">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.&amp;nbsp;You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1586">
+        <questioncategoryid>759</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1592">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3038">
+                <parent>0</parent>
+                <name>Q3</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Unit 4 offers examples of categories for policies regarding energy (under Principle
+5). Which is NOT among the categories listed?&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809220422+TBGp3c</stamp>
+                <timecreated>1691618662</timecreated>
+                <timemodified>1700629856</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9589">
+                      <answertext>&lt;p dir="ltr"&gt;Financial policies&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9590">
+                      <answertext>&lt;p dir="ltr"&gt;Efficiency standards&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9591">
+                      <answertext>&lt;p dir="ltr"&gt;Policies regulating maximum emissions&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9592">
+                      <answertext>&lt;p dir="ltr"&gt;Social contracts or community covenants&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9593">
+                      <answertext>&lt;p dir="ltr"&gt;Research and development funding&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1767">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect. You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1587">
+        <questioncategoryid>759</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1593">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3039">
+                <parent>0</parent>
+                <name>Q4</name>
+                <questiontext>&lt;p dir="ltr"&gt;True or false?&lt;/p&gt;&lt;p dir="ltr"&gt;Principle 5 suggests that energy decisions are streamlined or made simpler because there many factors that can help to make the decisions.&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809220509+iDpC1L</stamp>
+                <timecreated>1691618709</timecreated>
+                <timemodified>1691717492</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9594">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9595">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="341">
+                    <trueanswer>9594</trueanswer>
+                    <falseanswer>9595</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+          <question_versions id="1594">
+            <version>2</version>
+            <status>ready</status>
+            <questions>
+              <question id="3040">
+                <parent>0</parent>
+                <name>Q4</name>
+                <questiontext>&lt;p dir="ltr"&gt;True or false?&lt;/p&gt;&lt;p dir="ltr"&gt;Principle 5 suggests that energy decisions are streamlined or made simpler because there many factors that can help to make the decisions.&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+240607233918+C7bWeQ</stamp>
+                <timecreated>1717803558</timecreated>
+                <timemodified>1717803558</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9596">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9597">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is correct.&lt;br&gt;&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="342">
+                    <trueanswer>9596</trueanswer>
+                    <falseanswer>9597</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1588">
+        <questioncategoryid>759</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1595">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3041">
+                <parent>0</parent>
+                <name>Q5</name>
+                <questiontext>&lt;p dir="ltr"&gt;Which daily life item is featured as a topic for connecting learning to sources of energy in learners’ lives?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809220914+A85GUy</stamp>
+                <timecreated>1691618954</timecreated>
+                <timemodified>1700629671</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9598">
+                      <answertext>&lt;p dir="ltr"&gt;Home appliance&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9599">
+                      <answertext>&lt;p dir="ltr"&gt;Home heating system&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9600">
+                      <answertext>&lt;p dir="ltr"&gt;Light bulb&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9601">
+                      <answertext>&lt;p dir="ltr"&gt;Motorized vehicle (car, scooter, etc.)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1768">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.&amp;nbsp;You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1589">
+        <questioncategoryid>759</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1596">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3042">
+                <parent>0</parent>
+                <name>Q6</name>
+                <questiontext>&lt;p dir="ltr"&gt;Which type of activity is featured as a strategy for exploring decision making regarding energy policy?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809221024+hOiJRx</stamp>
+                <timecreated>1691619024</timecreated>
+                <timemodified>1700629686</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9602">
+                      <answertext>&lt;p dir="ltr"&gt;Using a graphic organizer to track pros and cons&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9603">
+                      <answertext>&lt;p dir="ltr"&gt;Developing an argument or debate position&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9604">
+                      <answertext>&lt;p dir="ltr"&gt;Creating an infographic or brochure&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1769">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect.&amp;nbsp;You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="760">
+    <name>Default for Unit 4 Learning Check</name>
+    <contextid>73447</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10174</contextinstanceid>
+    <info>The default category for questions shared in context 'Unit 4 Learning Check'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-moodle-dev.civicactions.net+230809223245+O6oQvk</stamp>
+    <parent>764</parent>
+    <sortorder>999</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+      <question_bank_entry id="1590">
+        <questioncategoryid>760</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1597">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3043">
+                <parent>0</parent>
+                <name>Q1</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Conservation of energy refers to...&amp;nbsp;&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809223448+NMBU9d</stamp>
+                <timecreated>1691620488</timecreated>
+                <timemodified>1698993092</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9605">
+                      <answertext>&lt;p dir="ltr"&gt;A natural, physical law of energy systems&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9606">
+                      <answertext>&lt;p dir="ltr"&gt;Human actions that decrease energy use&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9607">
+                      <answertext>&lt;p dir="ltr"&gt;Both of the above&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1770">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect. You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1591">
+        <questioncategoryid>760</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1598">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3044">
+                <parent>0</parent>
+                <name>Q2</name>
+                <questiontext>&lt;p dir="ltr"&gt;Which factor does NOT affect the amount of energy used by human society?&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809223634+D5riA4</stamp>
+                <timecreated>1691620594</timecreated>
+                <timemodified>1698992852</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9608">
+                      <answertext>&lt;p dir="ltr"&gt;Technological innovation&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9609">
+                      <answertext>&lt;p dir="ltr"&gt;Social innovation&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9610">
+                      <answertext>&lt;p dir="ltr"&gt;Population growth&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9611">
+                      <answertext>&lt;p dir="ltr"&gt;Does not apply—ALL of the above affect human energy use&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1771">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect. You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1592">
+        <questioncategoryid>760</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1599">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3045">
+                <parent>0</parent>
+                <name>Q3</name>
+                <questiontext>&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p&gt;True
+or false?&lt;/p&gt;&lt;p&gt;Quality of life factors affected by energy choices (under Principle 7) include
+health, education, socioeconomic status, gender equality, and environmental
+protection.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809223923+J2xGpL</stamp>
+                <timecreated>1691620763</timecreated>
+                <timemodified>1691717681</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9612">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9613">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="343">
+                    <trueanswer>9612</trueanswer>
+                    <falseanswer>9613</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1593">
+        <questioncategoryid>760</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1600">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3046">
+                <parent>0</parent>
+                <name>Q4</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Regarding consequences of energy decisions at the societal level, disadvantaged and marginalized populations may experience...&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809224049+kCD285</stamp>
+                <timecreated>1691620849</timecreated>
+                <timemodified>1698993005</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9614">
+                      <answertext>&lt;p dir="ltr"&gt;The greatest benefit from positive consequences&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9615">
+                      <answertext>&lt;p dir="ltr"&gt;The greatest harm from negative consequences&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9616">
+                      <answertext>&lt;p dir="ltr"&gt;Both of the above&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1772">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect. You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1594">
+        <questioncategoryid>760</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1601">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3047">
+                <parent>0</parent>
+                <name>Q5</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;Which general topic is suggested in Unit 5 as a context for interdisciplinary instruction on energy?&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>0.3333333</penalty>
+                <qtype>multichoice</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809224225+WYDQb3</stamp>
+                <timecreated>1691620945</timecreated>
+                <timemodified>1698993022</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_multichoice_question>
+                  <answers>
+                    <answer id="9617">
+                      <answertext>&lt;p dir="ltr"&gt;Career preparation&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9618">
+                      <answertext>&lt;p dir="ltr"&gt;Air quality&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9619">
+                      <answertext>&lt;p dir="ltr"&gt;Purchasing a vehicle&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</answertext>
+                      <answerformat>1</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <multichoice id="1773">
+                    <layout>0</layout>
+                    <single>1</single>
+                    <shuffleanswers>0</shuffleanswers>
+                    <correctfeedback>Your answer is correct.</correctfeedback>
+                    <correctfeedbackformat>1</correctfeedbackformat>
+                    <partiallycorrectfeedback>Your answer is partially correct.</partiallycorrectfeedback>
+                    <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+                    <incorrectfeedback>Your answer is incorrect. You may attempt this quiz again to improve your score.</incorrectfeedback>
+                    <incorrectfeedbackformat>1</incorrectfeedbackformat>
+                    <answernumbering>ABCD</answernumbering>
+                    <shownumcorrect>1</shownumcorrect>
+                    <showstandardinstruction>0</showstandardinstruction>
+                  </multichoice>
+                </plugin_qtype_multichoice_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+      <question_bank_entry id="1595">
+        <questioncategoryid>760</questioncategoryid>
+        <idnumber>$@NULL@$</idnumber>
+        <ownerid>26700</ownerid>
+        <question_version>
+          <question_versions id="1602">
+            <version>1</version>
+            <status>ready</status>
+            <questions>
+              <question id="3048">
+                <parent>0</parent>
+                <name>Q6</name>
+                <questiontext>&lt;p dir="ltr" style="text-align: left;"&gt;True or false?&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Unit 5 focuses on suggestions for exploring human energy use, or consumption, at the individual level instead of at the societal level, in order to personalize the topic for learners.&lt;br&gt;&lt;/p&gt;</questiontext>
+                <questiontextformat>1</questiontextformat>
+                <generalfeedback></generalfeedback>
+                <generalfeedbackformat>1</generalfeedbackformat>
+                <defaultmark>1.0000000</defaultmark>
+                <penalty>1.0000000</penalty>
+                <qtype>truefalse</qtype>
+                <length>1</length>
+                <stamp>lincs-moodle-dev.civicactions.net+230809224315+1ZmetN</stamp>
+                <timecreated>1691620995</timecreated>
+                <timemodified>1691717754</timemodified>
+                <createdby>26700</createdby>
+                <modifiedby>26700</modifiedby>
+                <plugin_qtype_truefalse_question>
+                  <answers>
+                    <answer id="9620">
+                      <answertext>True</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>0.0000000</fraction>
+                      <feedback>&lt;p dir="ltr" style="text-align: left;"&gt;Your answer is incorrect. You may attempt this quiz again to improve your score.&lt;/p&gt;</feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                    <answer id="9621">
+                      <answertext>False</answertext>
+                      <answerformat>0</answerformat>
+                      <fraction>1.0000000</fraction>
+                      <feedback></feedback>
+                      <feedbackformat>1</feedbackformat>
+                    </answer>
+                  </answers>
+                  <truefalse id="344">
+                    <trueanswer>9620</trueanswer>
+                    <falseanswer>9621</falseanswer>
+                    <showstandardinstruction>1</showstandardinstruction>
+                  </truefalse>
+                </plugin_qtype_truefalse_question>
+                <plugin_qbank_comment_question>
+                  <comments>
+                  </comments>
+                </plugin_qbank_comment_question>
+                <plugin_qbank_customfields_question>
+                  <customfields>
+                  </customfields>
+                </plugin_qbank_customfields_question>
+                <question_hints>
+                </question_hints>
+                <tags>
+                </tags>
+              </question>
+            </questions>
+          </question_versions>
+        </question_version>
+      </question_bank_entry>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="761">
+    <name>top</name>
+    <contextid>73438</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10165</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+240628174056+vUfW2h</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="762">
+    <name>top</name>
+    <contextid>73441</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10168</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+240628174056+KoOreC</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="763">
+    <name>top</name>
+    <contextid>73444</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10171</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+240628174056+oHs94H</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+  <question_category id="764">
+    <name>top</name>
+    <contextid>73447</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>10174</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+240628174056+K2iUqB</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <idnumber>$@NULL@$</idnumber>
+    <question_bank_entries>
+    </question_bank_entries>
+  </question_category>
+</question_categories>

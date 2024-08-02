@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="58" moduleid="10185" modulename="folder" contextid="73458">
+  <folder id="58">
+    <name>NARA/Archive files (hidden; do not remove)</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <revision>5</revision>
+    <timemodified>1718931447</timemodified>
+    <display>0</display>
+    <showexpanded>0</showexpanded>
+    <showdownloadfolder>1</showdownloadfolder>
+    <forcedownload>0</forcedownload>
+  </folder>
+</activity>

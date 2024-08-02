@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="335" moduleid="10167" modulename="resource" contextid="73440">
+  <resource id="335">
+    <name>Unit 3: Energy Flow</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;The
+default view opens the unit in this browser window. For optimal viewing, &lt;a href="$@PLUGINFILEBYCONTEXT*73440@$/mod_resource/content/1/content/index.html" target="_blank" title="$@PLUGINFILEBYCONTEXT*73440@$/mod_resource/content/1/content/index.html"&gt;open the unit in a new window&lt;/a&gt;. &lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>13</revision>
+    <timemodified>1721848051</timemodified>
+  </resource>
+</activity>

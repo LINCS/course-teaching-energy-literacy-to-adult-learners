@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="27" moduleid="10163" modulename="glossary" contextid="73436">
+  <glossary id="27">
+    <name>Glossary</name>
+    <intro>&lt;p&gt;The glossary contains common terms used in the context of teaching energy literacy to adult learners. It is intended to aid in your understanding of new vocabulary and concepts introduced in the units.&amp;nbsp;At any point during the course, return here to refer to the glossary to check your understanding.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <allowduplicatedentries>0</allowduplicatedentries>
+    <displayformat>dictionary</displayformat>
+    <mainglossary>1</mainglossary>
+    <showspecial>1</showspecial>
+    <showalphabet>1</showalphabet>
+    <showall>1</showall>
+    <allowcomments>0</allowcomments>
+    <allowprintview>1</allowprintview>
+    <usedynalink>1</usedynalink>
+    <defaultapproval>0</defaultapproval>
+    <globalglossary>0</globalglossary>
+    <entbypage>10</entbypage>
+    <editalways>0</editalways>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>0</scale>
+    <timecreated>1433680025</timecreated>
+    <timemodified>1701900887</timemodified>
+    <completionentries>0</completionentries>
+    <entries>
+    </entries>
+    <entriestags>
+    </entriestags>
+    <categories>
+    </categories>
+  </glossary>
+</activity>

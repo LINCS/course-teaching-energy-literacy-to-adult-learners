@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="338" moduleid="10176" modulename="resource" contextid="73449">
+  <resource id="338">
+    <name>Unit 6: Course Conclusion</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;The
+default view opens the unit in this browser window. For optimal viewing, &lt;a href="$@PLUGINFILEBYCONTEXT*73449@$/mod_resource/content/1/content/index.html" target="_blank" title="$@PLUGINFILEBYCONTEXT*73449@$/mod_resource/content/1/content/index.html"&gt;open the unit in a new window&lt;/a&gt;. &lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>15</revision>
+    <timemodified>1721848554</timemodified>
+  </resource>
+</activity>

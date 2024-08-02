@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="253" moduleid="10182" modulename="certificate" contextid="73455">
+  <certificate id="253">
+    <name>Course Certificate: Teaching Energy Literacy to Adult Learners</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>1</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>lincs</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>0</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>1</printdate>
+    <datefmt>2</datefmt>
+    <printnumber>0</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours>3</printhours>
+    <printteacher>0</printteacher>
+    <customtext></customtext>
+    <printsignature>dael-signature.png</printsignature>
+    <printseal>0</printseal>
+    <timecreated>1719523021</timecreated>
+    <timemodified>1753715383</timemodified>
+    <issues>
+    </issues>
+  </certificate>
+</activity>

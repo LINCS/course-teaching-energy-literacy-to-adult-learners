@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="182" moduleid="10171" modulename="quiz" contextid="73444">
+  <quiz id="182">
+    <name>Unit 4 Learning Check</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span&gt;&lt;span data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;These questions will&amp;nbsp;&lt;/span&gt;&lt;span data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;ask you to recall information related to both content and instructional topics or strategies explored in Unit 4.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;&lt;span data-contrast="none" xml:lang="EN-US" lang="EN-US"&gt;&lt;em&gt;&lt;strong&gt;After completing the learning check, return to &lt;em&gt;&lt;strong&gt;the &lt;/strong&gt;&lt;/em&gt;&lt;a href="$@COURSEVIEWBYID*301@$"&gt;main course&amp;nbsp;page&lt;/a&gt; to begin the next unit.&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autoabandon</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>0</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69888</reviewattempt>
+    <reviewcorrectness>4352</reviewcorrectness>
+    <reviewmarks>4352</reviewmarks>
+    <reviewspecificfeedback>4352</reviewspecificfeedback>
+    <reviewgeneralfeedback>4352</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>4352</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>6.00000</sumgrades>
+    <grade>6.00000</grade>
+    <timecreated>1691616796</timecreated>
+    <timemodified>1718038415</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionminattempts>0</completionminattempts>
+    <allowofflineattempts>0</allowofflineattempts>
+    <subplugin_quizaccess_seb_quiz>
+    </subplugin_quizaccess_seb_quiz>
+    <question_instances>
+      <question_instance id="1319">
+        <quizid>182</quizid>
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="624">
+          <usingcontextid>73444</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>1584</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="1320">
+        <quizid>182</quizid>
+        <slot>2</slot>
+        <page>2</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="625">
+          <usingcontextid>73444</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>1585</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="1321">
+        <quizid>182</quizid>
+        <slot>3</slot>
+        <page>3</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="626">
+          <usingcontextid>73444</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>1586</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="1322">
+        <quizid>182</quizid>
+        <slot>4</slot>
+        <page>4</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="627">
+          <usingcontextid>73444</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>1587</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="1323">
+        <quizid>182</quizid>
+        <slot>5</slot>
+        <page>5</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="628">
+          <usingcontextid>73444</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>1588</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+      <question_instance id="1324">
+        <quizid>182</quizid>
+        <slot>6</slot>
+        <page>6</page>
+        <requireprevious>0</requireprevious>
+        <maxmark>1.0000000</maxmark>
+        <question_reference id="629">
+          <usingcontextid>73444</usingcontextid>
+          <component>mod_quiz</component>
+          <questionarea>slot</questionarea>
+          <questionbankentryid>1589</questionbankentryid>
+          <version>$@NULL@$</version>
+        </question_reference>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="156">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="239">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>7.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>
